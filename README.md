@@ -1,7 +1,7 @@
 # MLB Deviations Analysis
 
 ### This Project works in three phases, and analyzes every MLB Team from 1871 to 2018
-### Implements Pandas and NumPy For Data Cleaning, Aggregation, and Analysis
+#### Implements Pandas and NumPy For Data Cleaning, Aggregation, and Analysis
 
 ### Analysis - Part 1 - Great Team Performances
 #### 1.) List the top 50 teams performances - measured by how many games the team outperformed (more wins) their expected win loss in the given year.
